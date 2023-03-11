@@ -1,4 +1,4 @@
 <?php
 $msg = 'Bello Abdulroqib';
-echo $msq;
+echo $msg;
 ?>
