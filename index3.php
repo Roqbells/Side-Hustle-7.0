@@ -1,4 +1,4 @@
 <?php
-$msg = 'Bello Abdulroqib';
+$msg = 'Bello Abdulroqeeb';
 echo $msg;
 ?>
