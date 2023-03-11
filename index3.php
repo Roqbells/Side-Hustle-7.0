@@ -1,3 +1,4 @@
 <?php
-echo 'Hello, my name is Bello Abdulroqib';
+$msg = 'Bello Abdulroqib';
+echo $msq;
 ?>
